@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1525993597 source:d:\cascara_parcial\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+	"informe.h"
+
+1525993428 d:\cascara_parcial\funcion.h
+
+1525994260 d:\cascara_parcial\informe.h
+
+1525995603 source:d:\cascara_parcial\informe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+	"publicacion.h"
+
+1525996429 source:d:\cascara_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+	"informe.h"
+	"publicacion.h"
+
+1525996868 source:d:\cascara_parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+	"publicacion.h"
+	"informe.h"
+
+1525996384 d:\cascara_parcial\publicacion.h
+
